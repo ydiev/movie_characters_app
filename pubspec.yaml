@@ -11,13 +11,16 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
+  args: ^2.4.2
+  rename: ^2.1.1
+  dotenv: ^4.1.0
+  logger: ^1.4.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
   flutter_lints: ^2.0.0
-  rename: ^2.1.1
 
 flutter:
 
