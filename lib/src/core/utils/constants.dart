@@ -1,0 +1,1 @@
+const dataApiEnvKey = 'dataAPI';
