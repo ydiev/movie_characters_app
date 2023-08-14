@@ -6,7 +6,7 @@ final ThemeData appTheme = ThemeData(
     backgroundColor: AppColors.appBarBackground,
     foregroundColor: AppColors.textColor,
   ),
-  scaffoldBackgroundColor: AppColors.backgroundColor,
+  // scaffoldBackgroundColor: AppColors.backgroundColor,
   colorScheme: ColorScheme.fromSeed(seedColor: AppColors.accentColor),
   useMaterial3: true,
 );
